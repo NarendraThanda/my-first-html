@@ -1,0 +1,11 @@
+# Vercel
+.vercel/
+vercel.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
